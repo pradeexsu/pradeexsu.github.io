@@ -243,14 +243,14 @@ blockquote q:after {
 
   .pradeep header aside,
   .pradeep footer aside {
-    float: left;
-    margin-right: .5em;
+    /* float: left; */
+    /* margin-right: .5em; */
   }
 
   .pradeep header aside:after,
   .pradeep footer aside:after {
     padding-left: .5em;
-    content: "/";
+    /* content: "/"; */
   }
 
   h1 ~ aside {
